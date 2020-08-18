@@ -1,0 +1,176 @@
+.menu{
+    background-color: white;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: red;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 0 12px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+   color: green;
+    font-size: 25px;
+
+    
+}
+.navbar-nav .nav-item.active .nav-link{
+    color: blueviolet;
+}
+.navbar-brand img{
+    height: 100px;
+    width: 240px;
+}
+
+/*banner part start */
+/*banner part start */
+.content1{
+    margin-top: 20px;
+    height: 500px;
+    width: 20%;
+    background-color: gray;
+    text-align: center;
+   
+    float: left;
+}
+.content2{
+    margin-top: 20px;
+    height: 500px;
+    width: 56%;
+    background-color: white;
+    text-align: center;
+   
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.content3{
+    margin-top: 20px;
+    height: 500px;
+    width: 20%;
+    background-color: white;
+    text-align: center;
+   
+    float: left;
+}
+.footer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 60px;
+    width: 100%;
+    background-color: royalblue;
+    text-align: center;
+    line-height: 60px;
+    float: left;
+    border-radius: 40px;
+    font-size: 35px;
+    color: white;
+    
+}
+.content2 h1{
+    background-color: white;
+    text-align: left;
+   
+}
+
+
+/*banner part start */
+/*banner part start */
+.content2 p{
+    text-align: justify;
+    margin-top: 20px;
+}
+/*banner part start */
+.carousel-indicators li{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 50%; 
+}
+.carousel-indicators li.active{
+    background-color: green;
+}
+.shamim h5 span{
+    color: green;
+    font-size: 30px;
+
+}
+
+
+.snigdha form_box{
+    width: 0px;
+   
+    background-color: antiquewhite;
+    transition: all linear .3s;
+    
+}
+.icon:hover .snigdha form_box{
+    width: 200px;
+    transition: all linear .3s;
+
+}
+.mark{
+    height: 20%;
+    width: 90%;
+}
+.enjoy{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 60px;
+    width: 100%;
+    background-color: royalblue;
+    text-align: center;
+    line-height: 60px;
+    float: left;
+    border-radius: 40px;
+    font-size: 35px;
+    color: white;
+}
+/*banner part end*/
+/*breaking part start*/
+
+.break marquee{
+    margin-top: 20px;
+    height: 100px;
+    width: 15%;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+   .break marquee h1{
+    margin-top: 20px;
+    height: 100px;
+    width: 15%;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+
+
+.mark marquee {
+    height: 100px;
+    width: 80%;
+    background-color: green;
+    float: left;
+   
+}
+.mark marquee h1{ 
+    margin-top: 20px;
+    height: 100px;
+   
+    background-color: green;
+   
+   
+}
+
+
+
+/*breaking part end*/
+
+
